@@ -1,0 +1,46 @@
+Order_ID,Date,Customer_Type,Product_Category,Amount,Payment_Mode,City
+ORD001,2024-01-03,New,Electronics,12500,UPI,Mumbai
+ORD002,2024-01-07,Returning,Clothing,3200,Credit Card,Delhi
+ORD003,2024-01-10,New,Groceries,1850,Cash on Delivery,Bangalore
+ORD004,2024-01-14,Returning,Electronics,27000,Debit Card,Hyderabad
+ORD005,2024-01-18,New,Home & Kitchen,5600,UPI,Chennai
+ORD006,2024-01-22,Returning,Clothing,4100,Credit Card,Mumbai
+ORD007,2024-01-25,New,Beauty & Personal Care,2300,UPI,Pune
+ORD008,2024-01-29,Returning,Electronics,18500,Net Banking,Delhi
+ORD009,2024-02-02,New,Groceries,2100,Cash on Delivery,Kolkata
+ORD010,2024-02-06,Returning,Home & Kitchen,7800,Credit Card,Bangalore
+ORD011,2024-02-09,New,Electronics,9500,UPI,Mumbai
+ORD012,2024-02-13,Returning,Clothing,5200,Debit Card,Chennai
+ORD013,2024-02-17,New,Beauty & Personal Care,1900,UPI,Hyderabad
+ORD014,2024-02-20,Returning,Groceries,3400,Cash on Delivery,Delhi
+ORD015,2024-02-24,New,Electronics,31000,Credit Card,Mumbai
+ORD016,2024-02-27,Returning,Home & Kitchen,6200,Net Banking,Pune
+ORD017,2024-03-03,New,Clothing,2800,UPI,Bangalore
+ORD018,2024-03-07,Returning,Electronics,15500,Credit Card,Delhi
+ORD019,2024-03-11,New,Groceries,1600,Cash on Delivery,Kolkata
+ORD020,2024-03-15,Returning,Beauty & Personal Care,3100,UPI,Mumbai
+ORD021,2024-03-19,New,Electronics,22000,Debit Card,Chennai
+ORD022,2024-03-22,Returning,Home & Kitchen,9100,Credit Card,Hyderabad
+ORD023,2024-03-26,New,Clothing,3700,UPI,Delhi
+ORD024,2024-03-30,Returning,Electronics,41000,Net Banking,Mumbai
+ORD025,2024-04-03,New,Groceries,2900,Cash on Delivery,Pune
+ORD026,2024-04-07,Returning,Beauty & Personal Care,4600,Credit Card,Bangalore
+ORD027,2024-04-11,New,Electronics,16800,UPI,Delhi
+ORD028,2024-04-15,Returning,Clothing,6100,Debit Card,Mumbai
+ORD029,2024-04-18,New,Home & Kitchen,8300,Credit Card,Chennai
+ORD030,2024-04-22,Returning,Groceries,2200,UPI,Hyderabad
+ORD031,2024-04-26,New,Electronics,35000,Net Banking,Mumbai
+ORD032,2024-04-30,Returning,Clothing,4800,Credit Card,Delhi
+ORD033,2024-05-04,New,Beauty & Personal Care,2700,UPI,Kolkata
+ORD034,2024-05-08,Returning,Electronics,19500,Debit Card,Bangalore
+ORD035,2024-05-12,New,Groceries,3300,Cash on Delivery,Mumbai
+ORD036,2024-05-16,Returning,Home & Kitchen,11200,Credit Card,Delhi
+ORD037,2024-05-19,New,Electronics,28000,UPI,Pune
+ORD038,2024-05-23,Returning,Clothing,5500,Net Banking,Chennai
+ORD039,2024-05-27,New,Beauty & Personal Care,3800,Credit Card,Mumbai
+ORD040,2024-05-31,Returning,Groceries,1950,Cash on Delivery,Hyderabad
+ORD041,2024-06-04,New,Electronics,44000,UPI,Delhi
+ORD042,2024-06-08,Returning,Home & Kitchen,7600,Credit Card,Mumbai
+ORD043,2024-06-12,New,Clothing,4300,Debit Card,Bangalore
+ORD044,2024-06-16,Returning,Electronics,23500,Net Banking,Chennai
+ORD045,2024-06-20,New,Groceries,2600,UPI,Kolkata
